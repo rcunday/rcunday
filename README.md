@@ -1,3 +1,6 @@
+
+[![Richard's GitHub Banner](./assets/gitbanner2.png)](https://www.linkedin.com/in/richardcunday/)
+
 ### Hi there 👋
 
 <!--
