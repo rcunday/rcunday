@@ -3,7 +3,7 @@
 Hi there! 👋
 <br>
 
-I'm Richard, a senior full-stack engineer who specializes in the development of custom QA and development test tools. Using the skills listed below, I build various QA and development tools that are used for on-premise and cloud devops provisioning, Web UI Automation, and recently REST API Load Testing at scale.
+I'm Richard, a senior full-stack engineer who specializes in the development of custom QA and development test tools. Using the skills listed below, I build various QA and development tools that are used for on-premise and cloud devops provisioning, web and thick client UI automation, email traffic generation, client/server REST API Load Testing just to name a few.
 
 Want to know more about me? [Check out my LinkedIn Profile.](https://www.linkedin.com/in/richardcunday/)
 
