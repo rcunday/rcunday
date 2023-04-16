@@ -3,7 +3,7 @@
 Hi there! 👋
 <br>
 
-I'm Richard, a senior full-stack engineer who specializes in the development of custom QA and development test tools. Using the skills listed below, I build QA and development tools that are used for on-prem and cloud devops provisioning, UI Automation, and recently REST API Load Testing at scale.
+I'm Richard, a senior full-stack engineer who specializes in the development of custom QA and development test tools. Using the skills listed below, I build various QA and development tools that are used for on-premise and cloud devops provisioning, Web UI Automation, and recently REST API Load Testing at scale.
 
 Want to know more about me? [Check out my LinkedIn Profile.](https://www.linkedin.com/in/richardcunday/)
 
@@ -23,6 +23,9 @@ Want to know more about me? [Check out my LinkedIn Profile.](https://www.linkedi
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Winforms-informational?style=flat&logo=windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-WindowsPresentationFoundation-informational?style=flat&logo=windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Net-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Net-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
